@@ -17,6 +17,16 @@
   </a>
 </p>
 
+# 📱 Minhas redes:
+
+<p align="left">
+  <a href=linkedin.com/in/isaías-brandão-2ba8201a2 title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+
+  <a href="https://wa.me/5511984646063" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
+
+
 
 
 
